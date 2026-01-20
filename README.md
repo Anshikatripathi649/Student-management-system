@@ -68,4 +68,5 @@ Building this project helped me master:
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Anshika Tripathi
+
