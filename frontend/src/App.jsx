@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import StudentForm from './components/StudentForm.jsx'
-import StudentList from './components/StudentList'
+import StudentList from './components/StudentList.jsx'
 import SearchBar from './components/SearchBar.jsx'
 import { getStudentInfo } from './utils/storage.jsx'
 
