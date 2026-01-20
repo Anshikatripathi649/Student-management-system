@@ -1,8 +1,8 @@
 # 🎓 Student Management System
 
 A fully functional **CRUD (Create, Read, Update, Delete)** application built with **React.js**. This project allows users to manage student records efficiently with a modern, responsive user interface.
+<img width="861" height="803" alt="image" src="https://github.com/user-attachments/assets/369f2d30-8f4c-429c-87e6-979395270795" />
 
-![Project Screenshot](./screenshot.png) 
 ## 🚀 Features
 
 * **Create:** Add new students with details (Name, Roll No, Class, etc.).
